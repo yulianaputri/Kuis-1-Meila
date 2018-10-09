@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".berita1">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="246dp"
+        android:layout_height="145dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.056"
+        app:srcCompat="@drawable/Captureddd" />
+
+    <TextView
+        android:id="@+id/textView7"
+        parent
+        android:layout_width="336dp"
+        android:layout_height="413dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="192dp"
+        android:layout_marginEnd="8dp"
+        android:text="Penanggung jawab pertandingan judo Asian Para Games 2018, Ahmad Bahar, membenarkan kabar itu saat dikonfirmasi detikSport. Ada aturan yang mengaturnya.
+
+Permasalahan itu karena aturan. Aturan di judo itu atlet tidak diperkenankan memakai hijab pada saat masuk matras, kata Bahar.
+
+    Hanya masuk matras saja, katanya lagi.
+
+    Tapi, karena atlet ini tidak mau melepas dan memang sudah prinsip mau bagaimana lagi. Itu juga sudah peraturan, ujar Bahar tanpa menjelaskan detail bunyi aturan tertulis tersebut.
+
+    Bahar sendiri mengetahui adanya aturan itu saat technical meeting yang berlangsung Minggu (7/10/2018) sore. Sesaat aturan dibacakan kemudian informasi soal aturan baru itu pun langsung disebarkan secara berantai kepada seluruh atlet, termasuk atlet Indonesia.
+
+    Itu peraturan baru. Saya kurang tahu barunya tahun berapa. Tapi untuk ASEAN Para Games itu judo belum dipertandingkan. Sementara Asian Para Games 2014 saya kurang paham, katanya lagi."
+        android:textColor="@android:color/black"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="
+        android:textColor="
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />@android:color/black"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="41dp"
+        tools:layout_editor_absoluteY="223dp" />"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
